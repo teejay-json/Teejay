@@ -7,28 +7,28 @@
                 "name": "Big Hitarget",
                 "price": 10,
                 "description": "High quality fabric for affordable price.",
-                "image": "0.png"
+                "image": "01.png"
             },
             {
                 "id": 12,
                 "name": "Standard Hitarget",
                 "price": 10,
                 "description": "High quality fabric for affordable price.",
-                "image": "1.png"
+                "image": "02.png"
             },
             {
                 "id": 13,
                 "name": "Unique Hitarget",
                 "price": 3.25,
                 "description": "High quality fabric for affordable price.",
-                "image": "2.png"
+                "image": "03.png"
             },
             {
                 "id": 14,
                 "name": "Affordable Hitarget",
                 "price": 3.25,
                 "description": "High quality fabric for affordable price.",
-                "image": "3.png"
+                "image": "04.png"
             }
         ]            
     },
@@ -40,21 +40,21 @@
                 "name": "Beaded India George",
                 "price": 40,
                 "description":"Spice your events with beautiful george.",
-                "image": "5.png"
+                "image": "05.png"
             },
             {
                 "id": 22,
                 "name": "Blue India George",
                 "price": 40,
                 "description":"Always stand out in your dresses.",
-                "image": "6.png"
+                "image": "06.png"
             },
             {
                 "id": 23,
                 "name": "Fancy India George",
                 "price": 40,
                 "description":"Affordable luxury.",
-                "image": "7.png"
+                "image": "08.png"
             }
         ]            
     },
@@ -66,14 +66,14 @@
                 "name": "Native headtie",
                 "price": 10,
                 "description": ".",
-                "image": "8.png"
+                "image": "09.png"
             },
             {
                 "id": 32,
                 "name": "Native cap",
                 "price": 10,
                 "description": ".",
-                "image": "9.png"
+                "image": "10.png"
             }
         ]            
     },
@@ -85,14 +85,14 @@
                 "name": "Idoma culture attire",
                 "price": 30,
                 "description":"Show your identity through your dress.",
-                "image": "12.png"
+                "image": "11.png"
             },
             {
                 "id": 42,
                 "name": "Idoma culture lace",
                 "price": 30,
                 "description":"Feel the uniqueness in cultural lace.",
-                "image": "13.png"
+                "image": "12.png"
             }
         ]            
     }
